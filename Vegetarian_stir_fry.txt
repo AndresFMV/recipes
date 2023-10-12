@@ -10,7 +10,8 @@ A quick, healthy, and flavorful dish packed with colorful veggies.
 - 2 cloves of garlic, minced
 - 2 tbsp soy sauce
 - 1 tbsp sesame oil
-- Salt and pepper to taste
+- Salt to taste
+- Pepper to taste
 
 ## Instructions
 1. Heat some oil in a wok or large frying pan.
