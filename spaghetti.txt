@@ -1,0 +1,26 @@
+# Spaghetti Bolognese
+
+This is a traditional Italian dish that I love. It's hearty, delicious, and perfect for a family dinner!
+
+## Ingredients
+- 200g spaghetti
+- 400g minced beef
+- 1 onion, chopped
+- 2 cloves of garlic, minced
+- 400g tin chopped tomatoes
+- 2 tbsp tomato paste
+- Salt and pepper to taste
+
+## Instructions
+1. Cook the spaghetti according to the package instructions.
+2. While the spaghetti is cooking, heat some oil in a pan and add the onion and garlic. Cook until they are soft.
+3. Add the minced beef to the pan and cook until it's browned.
+4. Add the chopped tomatoes, tomato paste, salt, and pepper to the pan. Simmer for about 15 minutes.
+5. Drain the spaghetti and add it to the pan with the sauce. Stir well to combine.
+6. Serve hot with some grated Parmesan cheese on top.
+
+## Tips and Notes
+- You can add some red wine to the sauce for extra flavor.
+- This dish is best served with a side of garlic bread.
+
+Enjoy your meal!
